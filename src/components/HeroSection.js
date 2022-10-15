@@ -4,8 +4,8 @@ import illustrationIntro from '../img/illustration-intro.svg'
 const HeroSection = () => {
   return (
     <>
-      <section className='bg-red-400'>
-        <main className='container bg-flexCon flex flex-col-reverse md:flex-row px-6 mx-auto mt-10 space-y-0 md:space-y-0'>
+      <section id='hero'>
+        <main className='container flex flex-col-reverse md:flex-row px-6 mx-auto mt-10 space-y-0 md:space-y-0 md:justify-between'>
           {/* Left Side */}
           <div className='flex flex-col mb-32 space-y-12 md:w-1/2'>
             <h1 className='max-w-md text-4xl font-bold text-center md:text-5xl md:text-left'>

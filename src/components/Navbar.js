@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       <nav className='relative container mx-auto p-6 '>
         {/* Flex container */}
-        <div className='flex items-center justify-between bg-flexCon'>
+        <div className='flex items-center justify-between'>
           {/* Logo */}
           <div className='pt-2'>
             <img src={logo} alt='logo' />
