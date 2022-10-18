@@ -9,7 +9,7 @@ const HeroSection = () => {
           {/* Left Side */}
           <div className='flex flex-col mb-32 space-y-12 md:w-1/2'>
             <h1 className='max-w-md text-4xl font-bold text-center md:text-5xl md:text-left'>
-              Bring everyone together to build better product
+              Fahad Bhai kya haal hain everyone together to build better product
             </h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
