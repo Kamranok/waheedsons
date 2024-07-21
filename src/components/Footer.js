@@ -90,7 +90,7 @@ const Footer = () => {
               </div>
             </form>
             <div className='hidden text-white lg:block'>
-              Copyright &copy; 2022, All Rights Reserved
+              Copyright &copy; 2024, All Rights Reserved
             </div>
           </div>
         </div>
