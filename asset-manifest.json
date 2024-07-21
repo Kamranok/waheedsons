@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/waheedsons/static/css/main.1ae8032c.css",
-    "main.js": "/waheedsons/static/js/main.bc2194d9.js",
-    "static/js/787.28cb0dcd.chunk.js": "/waheedsons/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/waheedsons/static/css/main.76048252.css",
+    "main.js": "/waheedsons/static/js/main.65efa5ca.js",
+    "static/js/787.d4aba7ab.chunk.js": "/waheedsons/static/js/787.d4aba7ab.chunk.js",
     "static/media/avatar-ali.png": "/waheedsons/static/media/avatar-ali.88f9155cb730934f4d7c.png",
     "static/media/illustration-intro.svg": "/waheedsons/static/media/illustration-intro.cb9a8a9551ca99f99a125230d38a2c36.svg",
     "static/media/avatar-anisha.png": "/waheedsons/static/media/avatar-anisha.484e15bc92ce6a0106ab.png",
@@ -15,12 +15,12 @@
     "static/media/icon-twitter.svg": "/waheedsons/static/media/icon-twitter.01a8907dd0beb126cff27d505c31be52.svg",
     "static/media/icon-youtube.svg": "/waheedsons/static/media/icon-youtube.7d6960fbb0c4831f7c667012f0b102d2.svg",
     "static/media/icon-facebook.svg": "/waheedsons/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
-    "main.1ae8032c.css.map": "/waheedsons/static/css/main.1ae8032c.css.map",
-    "main.bc2194d9.js.map": "/waheedsons/static/js/main.bc2194d9.js.map",
-    "787.28cb0dcd.chunk.js.map": "/waheedsons/static/js/787.28cb0dcd.chunk.js.map"
+    "main.76048252.css.map": "/waheedsons/static/css/main.76048252.css.map",
+    "main.65efa5ca.js.map": "/waheedsons/static/js/main.65efa5ca.js.map",
+    "787.d4aba7ab.chunk.js.map": "/waheedsons/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ae8032c.css",
-    "static/js/main.bc2194d9.js"
+    "static/css/main.76048252.css",
+    "static/js/main.65efa5ca.js"
   ]
 }
